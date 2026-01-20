@@ -25,7 +25,7 @@ I enjoy working across the stack to deliver clean, maintainable, and high-perfor
 
 ## 🎓 Education & Training
 
-- 🎓 **Computer Engineering** – Karabük University  
+- 🎓 **** – Karabük University  
 - 🎯 **Udemig Full Stack Web Development Program**  
   - React Front-end  
   - React Native  
@@ -44,16 +44,15 @@ I enjoy working across the stack to deliver clean, maintainable, and high-perfor
   <img src="https://skillicons.dev/icons?i=react,nodejs,java,spring,postgresql,html,css,javascript,typescript,git,github,tailwind,vscode" />
 </p>
 
-### 🛠️ Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
 
 ## 🌐 Socials
 
 <p>
-  <a href="(https://www.linkedin.com/in/denizf%C4%B1rat/)" target="_blank">
+  <a href="https://www.linkedin.com/in/denizf%C4%B1rat/" target="_blank">
     <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="(https://www.instagram.com/denizboztpe?utm_source=qr&igsh=c2VhbXJkcDBjM3ox)" target="_blank"> 
+  <a href="https://www.instagram.com/denizboztpe?utm_source=qr&igsh=c2VhbXJkcDBjM3ox" target="_blank"> 
     <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram"/> 
   </a>
 </p>

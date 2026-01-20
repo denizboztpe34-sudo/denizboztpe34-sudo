@@ -25,7 +25,7 @@ I enjoy working across the stack to deliver clean, maintainable, and high-perfor
 
 ## 🎓 Education & Training
 
-- 🎓 **** – Karabük University  
+- 🎓 Bülent Ecevit University  
 - 🎯 **Udemig Full Stack Web Development Program**  
   - React Front-end  
   - React Native  
